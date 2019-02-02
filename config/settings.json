@@ -1,0 +1,9 @@
+{
+    "apiUrlV1": "/api/v1",
+    "port": 3080,
+    "secret": "Good Things Take Time !!!!",
+    "ADMIN_REFERRAL_CODE": "AAAAAA",
+    "fscp": "xxxxxxxxxxxxxxxxxxx",
+    "isMaintenance": false,
+    "minimumWithdrawThreshold": 5000
+}
